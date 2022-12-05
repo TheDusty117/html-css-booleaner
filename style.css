@@ -34,13 +34,10 @@ h1{
 }
 
 th{
-    padding-right: 120px;
+    text-align: left
     
 }
 
-#th3{
-    padding-right: 385px;
-}
 
 #t3{
     width: 50%;
@@ -49,6 +46,7 @@ th{
 
 thead{
     background-color: #7FA6FB;
+    width: 10;
 }
 
 .pari{
