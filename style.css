@@ -28,3 +28,24 @@ h1{
     
 }
 
+th{
+    padding-right: 120px;
+    
+}
+
+#th3{
+    padding-right: 385px;
+}
+
+#t3{
+    width: 50%;
+
+}
+
+thead{
+    background-color: #7FA6FB;
+}
+
+.pari{
+    background-color: aqua;
+}
