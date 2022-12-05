@@ -6,4 +6,25 @@ header{
 
 }
 
+#logo{
+    height: 80px;
+    margin-top: 90px;
+
+}
+
+#trafiletto{
+    color: grey;
+    font-size: x-large;
+}
+#scrittore{
+    color: #7FA6FB;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.timmyimg{
+    
+}
 
