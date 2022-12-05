@@ -24,8 +24,13 @@ h1{
     font-size: 60px;
 }
 
-.timmyimg{
-    
+
+#lee1{
+    width: 50%;
+}
+
+#lee2{
+    width: 43%;
 }
 
 th{
@@ -57,4 +62,8 @@ thead{
 
 #interessi{
     color: grey;
+}
+
+.yellowmark{
+    background-color: yellow;
 }
